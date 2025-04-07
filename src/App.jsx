@@ -95,7 +95,7 @@ export default function HomePage() {
             onClick={handleClick}
             className="px-6 py-3 bg-yellow-400 hover:bg-yellow-500 text-black font-bold rounded-lg text-xl mb-6 shadow-lg z-20"
           >
-            Klik Aku Dong!
+            Klik ini dulu !
           </button>
         )}
 
@@ -109,7 +109,7 @@ export default function HomePage() {
               transition={{ duration: 0.7, type: "spring", bounce: 0.6 }}
               className="text-4xl text-pink-300 font-extrabold text-center drop-shadow-lg"
             >
-              🤣 HAHAHA NAHDA GOBLOKK !!
+              🤣 HAHAHA lidya GOBLOKK !!
             </motion.div>
           )}
         </AnimatePresence>
